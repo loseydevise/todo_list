@@ -38,6 +38,7 @@ https://github.com/stark-tech-space/interview-todoList/blob/master/README_v2_zh.
     下次執行時跳過已完成通知的訊息
 - 定時重複任務 - CycleEventsService
   - 當任務完成的時候根據 corn 語法，計算期周期性與推算dueAt時間來產生下一個 Task
+- 資料表都有註解，主要就是兩張表User與Task請參考 src/entities 資料夾
 
 ## 啟動
 
