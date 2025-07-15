@@ -47,6 +47,10 @@ yarn demo
 docker-compose up --build
 ```
 
+- Database Admin - http://127.0.0.1:8080
+  - root / rootpassword
+- App - http://127.0.0.1:3000
+
 ## CURL api 說明
 
 - 需要使用 jq docker yarn
