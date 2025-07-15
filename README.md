@@ -39,7 +39,17 @@ https://github.com/stark-tech-space/interview-todoList/blob/master/README_v2_zh.
 - 定時重複任務 - CycleEventsService
   - 當任務完成的時候根據 corn 語法，計算期周期性與推算dueAt時間來產生下一個 Task
 
+## 啟動
+
+```bash
+yarn demo
+# or
+docker-compose up --build
+```
+
 ## CURL api 說明
+
+- 需要使用 jq docker yarn
 
 ```bash
 # 用戶相關 API
